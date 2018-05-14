@@ -1,6 +1,6 @@
-Short Link
+# Short Link
 
 This is a link shortener built on Meteor and React.
 
-Author
+## Author
 Matthew Keen and Andrew Mead
